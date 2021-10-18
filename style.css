@@ -4,6 +4,22 @@ body{
     background: url(teddy.png) no-repeat;
     background-size: cover;
   }
+  .rectangle2{
+    width: 100px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+  }
+  .rectangle2 h4{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    text-align: center;
+  }
   .rectangle{
     width: 200px;
     background: rgba(0, 0, 0, 0.4);
@@ -19,6 +35,11 @@ body{
     letter-spacing: 4px;
     font-weight: 100;
     text-align: center;
+  }
+  .rectangle h3{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
   }
   .box{
     width: 450px;
