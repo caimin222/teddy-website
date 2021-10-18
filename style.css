@@ -4,6 +4,22 @@ body{
     background: url(teddy.png) no-repeat;
     background-size: cover;
   }
+  .rectangle{
+    width: 200px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+  }
+  .rectangle h2{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    text-align: center;
+  }
   .box{
     width: 450px;
     background: rgba(0, 0, 0, 0.4);
